@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dynamics365 first steps
+title: Markdown syntax
 ---
 # Heading
 
