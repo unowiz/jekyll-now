@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-### I belive in learning as key to survial
+### I belive in learning as the key to survial
 
 ### I belive in feedback loops
 
