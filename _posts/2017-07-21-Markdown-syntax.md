@@ -9,6 +9,8 @@ Editors like VSCode has decent markdown support but incase you want to try somet
 
 [https://kramdown.herokuapp.com/](https://kramdown.herokuapp.com/){:target="_blank"}
 
+Feel free to lookup source of this page at [https://raw.githubusercontent.com/unowiz/unowiz.github.io/master/_posts/2017-07-21-Markdown-syntax.md](https://raw.githubusercontent.com/unowiz/unowiz.github.io/master/_posts/2017-07-21-Markdown-syntax.md){:target="_blank"}
+
 # Heading
 
 ## Sub-heading
