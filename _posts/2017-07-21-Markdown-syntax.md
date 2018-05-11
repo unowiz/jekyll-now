@@ -7,7 +7,7 @@ If you are new to Markdown, I realise that Markdown can be little confusing. I h
 
 Editors like VSCode has decent markdown support but incase you want to try something very quick use the following site to test your code:
 
-[https://kramdown.herokuapp.com/](https://kramdown.herokuapp.com/)
+[https://kramdown.herokuapp.com/](https://kramdown.herokuapp.com/){:target="_blank"}
 
 # Heading
 
