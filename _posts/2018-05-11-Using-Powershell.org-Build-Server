@@ -13,5 +13,5 @@ PowerShell.org offers an instance of TeamCity, free to use for any PowerShell pr
 This is similar to other hosted Continuous Integration services out there, such as Appveyor and teamcity.codebetter.com, 
 but with some advantages for the PowerShell community:
 
-Reference:
-[https://powershell.org/build-server](https://powershell.org/build-server)
+##Reference:
+1. [powershell.org/build-server](https://powershell.org/build-server)
